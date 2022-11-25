@@ -12,6 +12,7 @@ import Search from './pages/Search';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
+  
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
